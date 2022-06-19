@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797094494183",
+    "project_id": "projek-akhir-shoes-and-care",
+    "storage_bucket": "projek-akhir-shoes-and-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797094494183:android:6311e0065a3f1902c34742",
+        "android_client_info": {
+          "package_name": "com.example.projek_akhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797094494183-3mdt3vb0r4jmc9g8lh0sslq8pkt3h60b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDusJfDUAiU-8YZYn_csw1W7419VezTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797094494183-3mdt3vb0r4jmc9g8lh0sslq8pkt3h60b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
